@@ -1,0 +1,20 @@
+{
+    "Author": "Sebastian Gr\u00e4f",
+    "ContentSize": 2104,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/getlocalaccountmemberships-powershell-advanced-function/master/Get-LocalAccountMemberships.ps1",
+    "DownloadCount": 817,
+    "Id": "Get-LocalAccountMemberships-68f33483",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 352,
+    "RaterCount": 0,
+    "Rating": 0.0,
+    "ReleaseDate": "2017-12-15T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "Retrieves local user accounts and their group memberships. For having the Output prepared for a Custon Script Extension in Azure Export-Clixml is being used which can then be deserialized with Import-Clixml.",
+    "Title": "Get-LocalAccountMemberships PowerShell Advanced Function",
+    "UpdatedDate": "2017-12-15T00:00:00",
+    "Url": "https://github.com/azureautomation/getlocalaccountmemberships-powershell-advanced-function",
+    "UserTags": ""
+}
